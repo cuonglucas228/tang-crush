@@ -16,3 +16,4 @@ const CONFIG = {
     messDesc: 'Tối mai 8h anh qua gặp babi của anh và cho bé một cái ôm thiệc là lâu nhớ.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100006398982075
+}
